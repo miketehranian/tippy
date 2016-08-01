@@ -42,7 +42,7 @@ The biggest debugging challenge that I had was figuring out where to place the c
 I spent about an hour learning how to implement the dark theme and the various colors themes. I found a lot of examples online on modifying the style of UI components and they were very helpful.
 I found the example of the shake animation on StackOverflow and I thought it would be a nice UX to add.
 Finally, I spent more time than I originally planned on setting the home screen application icon. I could not find a free icon with the required size contraints so I paid for a nice icon from icons8.com and used that for my application. It was not a difficult task but just something that took me longer than I anticipated.
-I really like the Swift language and I was able to pick it up really fast and its already becoming one of my favorite languages to use! I am pleased that I have not been biten by esoteric language "gotchas" and the language follows the principle of least astonishment (POLA).
+I really like the Swift language and I was able to pick it up really fast and its already becoming one of my favorite languages to use! I am pleased that I have not been bitten by esoteric language "gotchas" and the language follows the principle of least astonishment (POLA).
 
 ## License
 
